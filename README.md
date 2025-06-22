@@ -1,14 +1,41 @@
-Vendor-Recommendation-Event-Planning-AI
-Overview
-This is a basic AI concept for recommending vendors and planning events. It accepts: Event type Budget Location
+🎉 Vendor Recommendation & Event Planning AI
+An AI-powered assistant to help you plan events and recommend the best vendors based on your preferences.
 
-It then: Recommends top 3 vendors per category (Catering, Photography, Venue) Lets the user select their preferred ones Calculates total cost Shows a planning timeline/checklist
+🧠 Overview
+This AI tool simplifies event planning by allowing users to input:
 
-Tools Used
-Python (run via Google Colab) No external APIs used (mock data only)
+Event Type
 
-How to Run
-Open Vendor_Recommendation_&_Event_Planning_AI.ipynb in Colab
+Budget
+
+Location
+
+And in return, it:
+
+🏆 Recommends Top 3 Vendors per category:
+
+Catering
+
+Photography
+
+Venue
+
+✅ Lets you select your preferred vendors
+
+💰 Calculates your total estimated cost
+
+📅 Generates a personalized planning timeline & checklist
+
+🛠 Tools Used
+Python (runs in Google Colab)
+
+No external APIs – uses mock vendor data for demonstration purposes
+
+▶️ How to Run
+Open the notebook: Vendor_Recommendation_&_Event_Planning_AI.ipynb in Google Colab
+
 Run all cells
-Enter your event details
-Get vendor suggestions and your planning steps
+
+Enter your event details when prompted
+
+Explore vendor suggestions and view your personalized planning steps!
